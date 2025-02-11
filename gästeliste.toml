@@ -33,6 +33,7 @@ attending = ["aFTERNOON", "dINNER", "hIKE"]
 name = "Visu und Nina"
 is-invited-by-paper = true
 is-invited-to-hike = true
+attending = ["aFTERNOON", "dINNER", "hIKE"]
 [[guests]]
 name = "David"
 is-invited-by-paper = true
